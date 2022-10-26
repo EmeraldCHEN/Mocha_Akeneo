@@ -1,0 +1,4 @@
+export const Config = {
+  name: 'edge',
+  akeneoBaseURL: 'https://akeneo-staging.flybuys.co.nz',
+}
