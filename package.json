@@ -8,7 +8,6 @@
   "name": "mocha_akeneo",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "ansi-regex": "^5.0.1",
