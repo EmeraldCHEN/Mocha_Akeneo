@@ -1,6 +1,7 @@
 import supertest from 'supertest';
 import { expect } from 'chai';
-import {oauth2Credentials, productInfo} from '../constants/credentials';
+import { oauth2Credentials } from '../constants/credentials';
+import { productInfo } from '../constants/productData';
 
 const requestBaseAkeneoUrl = supertest(`${akeneoBaseURL}/api/rest/v1/`);
 const requestAccess = supertest(`${akeneoBaseURL}/api/oauth/v1/`);
