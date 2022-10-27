@@ -1,1 +1,1 @@
-# Mocha_Akeneo
+# Test Akeneo Post product API using Mocha with JS
