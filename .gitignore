@@ -1,2 +1,3 @@
 # Ignore some data
 constants\credentials.js
+node_modules
